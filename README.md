@@ -5,7 +5,7 @@ Website: [https://hassanmojeed.pages.dev](https://hassanmojeed.pages.dev)
 
 
 
-## Food Price Exploration in Nigeria (2017-2023)
+## Inflation and Food Price Exploration in Nigeria (2017-2023)
 
 Food is a fundamental part of life, and its affordability can significantly impact people's well-being. 
 
