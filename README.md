@@ -30,7 +30,7 @@ The final phases will focus on cleaning the data to ensure its accuracy and expo
 
 I'm excited to embark on this data analysis journey and gain insights into Nigerian food commodity prices!
 
-*Check out my [website](https://hassanmojeed.pages.dev) to gain insights from the dynamic visulization I developed for this project.*
+*Check out my [website](https://hassanmojeed.pages.dev) to gain insights from the dynamic visualization I developed for this project.*
 
 
 
